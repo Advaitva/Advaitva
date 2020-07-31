@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Visits Badge](https://badges.pufler.dev/visits/Advaitva/Advaitva)
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Advaitva&count_private=true&theme=gruvbox&show_icons=true)
 
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Advaitva&theme=gruvbox)
