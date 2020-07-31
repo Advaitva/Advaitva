@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Visits Badge](https://badges.pufler.dev/visits/Advaitva/Advaitva)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Advaitva&count_private=true&theme=gruvbox&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Advaitva&count_private=true&theme=gruvbox&show_icons=true&hide=issues)
 
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Advaitva&theme=gruvbox)
